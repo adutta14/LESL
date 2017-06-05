@@ -1,4 +1,4 @@
-# SER502-Spring2017-Team8
+# Lazy Evaluation Simple Language (LESL)
 
 - System on which your compiler and runtime are built (GNUstep, Linux, Unix, Windows or MacOS)  
 Our language (LESL) works on primarily Linux based systems like Ubuntu and MacOS.
