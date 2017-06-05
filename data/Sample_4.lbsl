@@ -1,0 +1,16 @@
+A = 50.
+Sum = 0.
+while(A>0)
+begin
+	Sum = Sum + A.
+	A = A - 1.
+end
+#show Sum.
+
+
+Expected Output
+************************************
+value of Sum is  1275
+
+
+************************************

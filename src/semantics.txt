@@ -1,0 +1,1 @@
+encode(assign(A,express(5)),encode(assign((F,(a,c),t),express(1)),encode(assign(B,express(modulus((F,(a,c),t),A))),encode(print((F,(a,c),t))))))

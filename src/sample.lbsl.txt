@@ -1,0 +1,4 @@
+A = 5.
+Fact = 1.
+B = Fact % A.
+#show Fact.

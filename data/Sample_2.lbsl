@@ -1,0 +1,12 @@
+A = true.
+B = false.
+A = B + 1.
+#show A.
+
+
+Expected Output
+************************************
+Cannot add binary variable to Register
+
+
+************************************

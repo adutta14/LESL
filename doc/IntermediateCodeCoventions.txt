@@ -1,0 +1,29 @@
+Intermediate Code Conventions
+=============================
+start => start  	 # start of code.
+end => end   		# end of code.
+Return Address => ra   # variable to store the return line number.
+Assignment=> cp A,B   # Copy the value of A into B.
+
+Addition => add A,B,C    #Add A and  B and store the result in C. Same goes for other operations.
+Subtration => sub A,B,C
+Multiplication => mul A,B,C
+Division=> div A,B,C
+Modulo => mod A,B,C
+
+'And' operation => and A,B,C    # Do 'and' on A and B and store the value in C. Same goes for others.
+'OR' operation =>  or A,B,C     
+'Not' operation => not A,B		# Do 'not' on A and store the value in B.
+
+Show => show A
+
+Jump => jmp <line number>
+Jump if equal to => je A,B, <line number/label>   # jump to line number if A is equal than B
+Jump if greater => jg A,B,<line number/label>  # jump to line number if A is greater than B. Same goes for other.
+jump if greater tha equal to => jge A,B,<line number/label>
+
+
+Break => break         #to break out from the current execution.
+
+
+These are the starting blocks. We might have to add/ change few things as an when we proceed.

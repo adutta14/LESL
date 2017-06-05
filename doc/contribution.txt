@@ -1,0 +1,40 @@
+	
+SER	502	
+	
+			Project	Contribution	
+	
+	
+Contribution	Till	Milestone 2:-	
+===============================	
+1)	Architectural	Design	Decisions:	Apoorv,	Dhananjay,	Abhishek,	Akhil	
+	
+2)	Language	Design	Decisions:	
+•	CodeBlock,	Loops	and	Conditions:	Apoorv,	Dhananjay		
+•	Assignment,	Operators	and	Arithmetic	Expressions:	Abhishesk,	Akil	
+•	Binary	Expression,	Ternary	Expression:	Apoorv,	Abhishek	and	Dhananjay	
+•	Keywords	and	Comments:	Apoorv,	Akil	
+	
+3)	Behavioral	Design	Decisions:	
+•	Evaluation	Strategy:	Dhananjay	
+•	Environmental	Design	and	Implementation:	Apoorv	and	Abhishek		
+	
+4)	Documentation:	
+•	Grammar	Doc:	Apoorv	
+•	Contribution	Doc:	Akil	
+•	Design	Doc:	Abhishek	and	Dhananjay	
+	
+	
+Final Contribution :-
+==================
+	
+1)	Lexical	Analysis(Tokenizer):	Abhishek	
+2)	Syntactic	and	Semantic	Analysis:	Dhananjay	
+3)	Intermediate	Code	Generation:	Abhishek,	Apoorv, Dhananjay	and	Akil	
+4)	Runtime	Environment:	Apoorv	and Akil
+5)  Test Cases : Apoorv, Dhananjay
+6)  Code review and bug fixes : Abhishek and Dhananjay 
+7)  Runtime Script and automation : Apoorv
+8)  Project Power point presentation and other documentation : Akil and Dhananjay
+
+Please find above the cotributions made by each team member into the different sections. We tried that each individual member owns a module but few of the sections were quite complicated and needed two or more people to work and fix them. 
+

@@ -1,0 +1,35 @@
+Assignment Operation:
+	Assignment = assign
+
+Arithimetic Operations:
+
+	addition = add
+	subtraction = subtract
+	multiplication = multiply
+	divide = divide
+	modulo = modulus
+
+Conditional Operations:
+
+	while = looping
+
+Looping Operations:
+
+	if = cond
+	subCondition = subCond
+
+To Print or Display:
+
+	#show = print
+
+Others:
+		number = num
+		variable, alphanumeric, subVar = var
+		expression, term, factor = express
+		booleanExpression = boolExpress
+		booleanTerm = boolTerm
+		boolean = bool
+		codeBlock = codeBlock
+		subCodeBlock = subBlock
+		statement = stmt
+		code = encode

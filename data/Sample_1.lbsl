@@ -1,0 +1,22 @@
+A = 2.
+B = 2.
+C = A + B.
+#show C.
+C = A * B.
+#show C.
+C = A - B.
+#show C.
+C = A / B.
+#show C.
+
+
+
+Expected Output
+************************************
+value of C is  4
+value of C is  4
+value of C is  0
+value of C is  1
+
+
+************************************

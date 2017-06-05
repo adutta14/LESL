@@ -1,0 +1,16 @@
+A = 5.
+Fact = 1.
+while(A>0)
+begin
+	Fact = Fact * A.
+	A = A - 1.
+end
+#show Fact.
+
+
+Expected Output
+************************************
+value of Fact is  120
+
+
+************************************
